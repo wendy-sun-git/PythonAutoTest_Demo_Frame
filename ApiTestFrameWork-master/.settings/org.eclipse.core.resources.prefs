@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//conf/settings.py=utf-8
+encoding//core/functions.py=utf-8
+encoding//core/logger.py=utf-8
+encoding//core/readExcel.py=utf-8
+encoding//core/testBase.py=utf-8
+encoding//db_operate/mysql_operate.py=utf-8
+encoding//db_operate/redis_operate.py=utf-8
+encoding//test_case/test_case.py=utf-8
+encoding/runCase.py=utf-8
