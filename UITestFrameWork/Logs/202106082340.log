@@ -1,0 +1,15 @@
+2021-06-08 23:41:00,140 - logger - INFO - [TestLogin]:setUp....
+2021-06-08 23:41:00,140 - logger - INFO - [test_login]:start
+2021-06-08 23:41:02,202 - logger - INFO - [登录]元素识别成功
+2021-06-08 23:41:02,256 - logger - INFO - [//*[@class="tang-pass-footerBar"]/p[text()="用户名登录"]]元素识别成功
+2021-06-08 23:41:03,178 - logger - INFO - [pass-form-item-submit]元素识别成功
+2021-06-08 23:41:03,231 - logger - INFO - 使用用户名:15064451806,密码:Jiaojie$550进行登陆
+2021-06-08 23:41:03,231 - logger - INFO - 输入用户名15064451806
+2021-06-08 23:41:03,231 - logger - INFO - TANGRAM__PSP_11__userName元素输入15064451806成功
+2021-06-08 23:41:03,232 - logger - INFO - [TANGRAM__PSP_11__userName]元素识别成功
+2021-06-08 23:41:03,295 - logger - INFO - 输入密码Jiaojie$550
+2021-06-08 23:41:03,295 - logger - INFO - TANGRAM__PSP_11__password元素输入Jiaojie$550成功
+2021-06-08 23:41:03,295 - logger - INFO - [TANGRAM__PSP_11__password]元素识别成功
+2021-06-08 23:41:03,379 - logger - INFO - 点击登录按钮
+2021-06-08 23:41:03,380 - logger - INFO - [TANGRAM__PSP_11__submit]元素点击成功
+2021-06-08 23:41:03,380 - logger - INFO - [TANGRAM__PSP_11__submit]元素识别成功
